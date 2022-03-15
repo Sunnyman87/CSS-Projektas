@@ -1,0 +1,111 @@
+body{
+    background-color:  #cfcfcf;
+  
+}
+h1{
+  color: #e8e8e8;
+  margin-left: 10rem;
+  margin-right: 10rem;
+  font-style: normal;
+  font-weight: normal;
+}
+#atgal{
+  color: #6ea8dd;
+}
+
+
+a{
+  float: right;
+  font-size: 1rem;
+  color: #e8e8e8;
+  text-decoration: none;
+  
+}
+main{
+  padding: right 3rem;
+  background-color: white;
+  border: solid 0.1rem;
+  padding: 1rem;
+  margin-left: 10rem;
+  margin-right: 10rem;
+}
+h2{
+  color: #e8e8e8;
+  margin-bottom: 1.5rem;
+  font-style: normal;
+  font-weight: normal;
+}
+nav{
+  border-style: solid;
+  border-top-color: white;
+  border-left-color: white;
+  border-right-color: white;
+  border-bottom-color:#e8e8e8;
+  margin-bottom: 1.5rem;
+  margin-top: 0rem;
+  
+}
+.button{
+  border-style: solid;
+  border-top-color: #e8e8e8;
+  border-left-color: white;
+  border-right-color: white;
+  border-bottom-color:white;
+  margin-bottom: 0rem;
+  margin-top: 1.5rem;
+  
+  
+}
+#saugoti{
+  width: 5rem;
+  height: 2rem;
+  background-color: grey;
+  border-style: solid;
+  border-radius: 3px;
+  color: white;
+  margin-top: 1rem;
+  
+  
+}
+button{
+  border-style: none;
+  background: none;
+  
+}
+input{
+  width: 15rem;
+  height: 1.5rem;
+  margin: 0.20rem
+  
+}
+label{
+  display: inline-block;
+    width:100px;
+    text-align: right; 
+}
+#Zipcode-search{
+  background-color: #e3e3e3 ;
+  width: 15.5rem;
+  height: 2rem;
+  border-style: solid;
+  border-width: thin;
+  border-color: grey;
+  border-radius: 2px;
+  
+}
+#text{
+  background-color: #e3e3e3 ;
+  width: 1rem; 
+  border-style: solid;
+  border-width: thin;
+  border-color: grey;
+  border-radius: 1.5px;
+  text-align: center;
+  margin-right: 0;
+  height: 1.65rem;
+  
+}
+#phone{
+  width: 13.65rem;
+  margin-left: 0;
+}
